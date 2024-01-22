@@ -1,0 +1,14 @@
+D:\Projects\learn-csharp\firstapp\bin\Debug\net8.0\firstapp.exe
+D:\Projects\learn-csharp\firstapp\bin\Debug\net8.0\firstapp.deps.json
+D:\Projects\learn-csharp\firstapp\bin\Debug\net8.0\firstapp.runtimeconfig.json
+D:\Projects\learn-csharp\firstapp\bin\Debug\net8.0\firstapp.dll
+D:\Projects\learn-csharp\firstapp\bin\Debug\net8.0\firstapp.pdb
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.AssemblyInfoInputs.cache
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.AssemblyInfo.cs
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.csproj.CoreCompileInputs.cache
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.dll
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\refint\firstapp.dll
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.pdb
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\firstapp.genruntimeconfig.cache
+D:\Projects\learn-csharp\firstapp\obj\Debug\net8.0\ref\firstapp.dll
